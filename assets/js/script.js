@@ -1,0 +1,124 @@
+var noun = [];
+var alpha = "abcdefghijklmnopqrstuvwxyz";
+noun[0] ="Vénségetekig ugyanaz maradok, ősz korotokig én hordozlak! Én alkottalak, én viszlek, én hordozlak, én mentelek meg. <br>Ézs 46:4";
+noun[1] = "Mivel drágának tartalak, és becsesnek, mivel szeretlek, azért embereket adok helyetted, életedért nemzeteket.  Ne félj, mert én veled vagyok! Napkeletről visszahozom gyermekeidet, és napnyugatról összegyűjtelek. <br> Ézs 43:4-5";
+noun[2] = "Az Úr vezet majd szüntelen, kopár földön is jól tart téged. Csontjaidat megerősíti, olyan leszel, mint a jól öntözött kert, mint a forrás, amelyből nem fogy ki a víz. <br> Ézs 58:11";
+noun[3] = "Én, én vagyok vigasztalótok! Miért félsz halandó embertől, olyan embertől, aki a fű sorsára jut? <br> Ézs 51:12";
+noun[4] = "Megfeledkezik-e csecsemőjéről az anya, nem könyörül-e méhe gyermekén? Ha mások megfeledkeznének is, én nem feledkezem meg rólad! <br> Ézs 49:15";
+noun[5] = "A föld végén ragadtalak meg, annak széléről hívtalak el. Ezt mondtam neked: Szolgám vagy! Kiválasztottalak, nem vetlek meg! Ne félj, mert én veled vagyok, ne csüggedj, mert én vagyok Istened! Megerősítlek, meg is segítlek, sőt győzelmes jobbommal támogatlak. <br> Ézs 41:9-10";
+noun[6] = "Mert a hegyek megszűnhetnek, és a halmok meginoghatnak, de hozzád való hűségem nem szűnik meg, és békességem szövetsége nem inog meg - mondja könyörülő Urad. <br> Ézs 54:10";
+noun[7] = "Ne félj, mert nem vallasz szégyent, ne pironkodj, mert nem ér gyalázat! Ifjúkorod szégyenét is elfelejted, özvegységed gyalázatára nem emlékezel többé. <br> Ézs 54:4";
+noun[8] = "Ne a régi dolgokat emlegessétek, ne a múltakon tűnődjetek! Mert én újat cselekszem, most kezd kibontakozni, majd megtudjátok! Már készítem az utat a pusztában, a sivatagban folyókat fakasztok. <br> Ézs 43:18-19";
+noun[9] = "Nagy örömöm telik az Úrban, víg örömre indít Istenem, mert az üdvösség ruhájába öltöztetett, az igazság palástját terítette rám, mint vőlegényre, ki fölteszi fejdíszét, mint menyasszonyra, ki fölrakja ékszereit. <br> Ézs 61:10";
+noun[10] = "Ezt mondja a magasztos, a felséges, aki örök hajlékában lakik, szent az ő neve: Magasságban és szentségben lakom, de a megtörttel és alázatos lelkűvel is. Felüdítem az alázatosak lelkét, felüdítem a megtörtek szívét. <br> Ézs 57:15";
+noun[11] = "De most így szól az Úr, a te teremtőd, Jákób, a te formálód, Izráel: Ne félj, mert megváltottalak, neveden szólítottalak, enyém vagy! Ha vízen kelsz át, én veled vagyok, és ha folyókon, azok nem sodornak el. Ha tűzben jársz, nem perzselődsz meg, a láng nem éget meg. <br> Ézs 43:1-2";
+noun[12] = "Vesd az ÚRra terhedet, és ő gondot visel rád! Nem engedi sohasem, hogy ingadozzon az igaz. <br> Zsolt 55:22";
+noun[13] = "Nem vétkeink szerint bánik velünk, nem bűneink szerint fizet nekünk. Mert amilyen magasan van az ég a föld fölött, olyan nagy a szeretete az istenfélők iránt. Amilyen messze van napkelet napnyugattól, olyan messzire veti el vétkeinket. Amilyen irgalmas az apa fiaihoz, olyan irgalmas az ÚR az istenfélőkhöz. <br> Zsolt 103:10-13";
+noun[14] = "Zarándokének. Tekintetem a hegyekre emelem: Honnan jön segítségem? Segítségem az ÚRtól jön, aki az eget és a földet alkotta. Nem engedi, hogy lábad megtántorodjék, nem szunnyad őriződ. Bizony nem szunnyad, nem alszik Izráel őrizője! <br> Zsolt 121:1-4";
+noun[15] = "Ha az URat tartod oltalmadnak, a Felségest hajlékodnak, nem érhet téged baj, sátradhoz közel sem férhet csapás. Mert megparancsolja angyalainak, hogy vigyázzanak rád minden utadon, <br> Zsolt 91:9-11";
+noun[16] = "Mivel maga is kísértést szenvedett, segíteni tud azokon, akik kísértésbe esnek. <br> Zsid 2:18";
+noun[17] = "De hűséges az Úr, aki megerősít titeket, és megőriz a gonosztól. <br> 2Th 3:3";
+noun[18] = "Kiálts hozzám, és válaszolok, hatalmas és megfoghatatlan dolgokat jelentek ki neked, amelyekről nem tudhatsz! <br> Jer 33:3";
+noun[19] = "Az igazak ösvénye olyan, mint a felragyogó világosság, mely egyre világosabb lesz délig. <br> Péld 4:18";
+noun[20] = "Ugye, öt verebet adnak két fillérért: mégsem feledkezik meg közülük egyről sem az Isten. Nektek pedig még a hajatok szálai is mind meg vannak számlálva. Ne féljetek, ti sok verébnél értékesebbek vagytok! <br> Lk 12:6-7";
+noun[21] = "Mert csak én tudom, mi a tervem veletek - így szól az Úr -: békességet és nem romlást tervezek, és reményteljes jövőt adok nektek. Ha segítségül hívtok, és állhatatosan imádkoztok hozzám, akkor meghallgatlak benneteket. Megtaláltok engem, ha kerestek és teljes szívvel folyamodtok hozzám <br> Jer 29:11-13";
+noun[22] = "Mit mondjunk tehát erre? Ha Isten velünk, ki lehet ellenünk? Aki tulajdon Fiát nem kímélte, hanem mindnyájunkért odaadta, hogyne ajándékozna nekünk vele együtt mindent? Ki vádolná Isten választottait? Isten, aki megigazít. <br> Róm 8:31-33";
+noun[23] = "Békességet hagyok nektek: az én békességemet adom nektek; de nem úgy adom nektek, ahogyan a világ adja. Ne nyugtalankodjék a ti szívetek, ne is csüggedjen. <br> Jn 14:27";
+noun[24] = "mert az Úr szeme az igazakon van, és füle az ő könyörgésükre figyel, <br> 1Pt 3:12 a";
+noun[25] = "problem";
+noun[26] = "software";
+noun[27] = "control";
+noun[28] = "power";
+noun[29] = "ability";
+noun[30] = "internet";
+noun[31] = "television";
+noun[32] = "dude";
+noun[33] = "man";
+noun[34] = "lady";
+noun[35] = "valami";
+noun[36] = "food";
+noun[37] = "theory";
+noun[38] = "law";
+noun[39] = "bird";
+noun[40] = "literature";
+noun[41] = "problem";
+noun[42] = "software";
+noun[43] = "control";
+noun[44] = "power";
+noun[45] = "ability";
+noun[46] = "internet";
+noun[47] = "television";
+noun[48] = "dude";
+noun[49] = "man";
+noun[50] = "lady";
+noun[51] = "valami";
+noun[52] = "theory";
+noun[53] = "law";
+noun[54] = "bird";
+noun[55] = "Én vagyok a szőlőtő, ti a szőlővesszők: A ki én bennem marad, én pedig ő benne, az terem sok gyümölcsöt: mert nálam nélkül semmit sem cselekedhettek.<br>János 15:5";
+noun[56] = "problem";
+noun[57] = "software";
+noun[58] = "control";
+noun[59] = "power";
+noun[60] = "ability";
+noun[61] = "internet";
+noun[62] = "television";
+noun[63] = "dude";
+noun[64] = "man";
+noun[65] = "lady";
+noun[66] = "valam4i";
+noun[67] = "vala4mi";
+noun[68] = "valami";
+noun[69] = "vala1mi";
+noun[70] = "val4ami";
+noun[71] = "ability";
+noun[72] = "internet";
+noun[73] = "television";
+noun[74] = "dude";
+noun[75] = "man";
+noun[76] = "lady";
+noun[77] = "valam4i";
+noun[78] = "vala4mi";
+noun[79] = "valami";
+noun[80] = "vala1mi";
+noun[81] = "internet";
+noun[82] = "television";
+noun[83] = "dude";
+noun[84] = "man";
+noun[85] = "lady";
+noun[86] = "valam4i";
+noun[87] = "vala4mi";
+noun[88] = "valami";
+noun[89] = "vala1mi";
+noun[90] = "internet";
+noun[91] = "television";
+noun[92] = "dude";
+noun[93] = "man";
+noun[94] = "lady";
+noun[95] = "valam4i";
+noun[96] = "vala4mi";
+noun[97] = "valami";
+noun[98] = "vala1mi";
+noun[99] = "ufeg";
+noun[100] = "nyah";
+
+var orderNouns = function(){
+  
+};
+var pickNoun = function(){
+  var nounI = Math.floor(Math.random()*noun.length);
+  return noun[nounI];
+};
+
+var simpleSentence = function(){
+  
+  return pickNoun()+".";
+  
+};
+
+$(document).ready(function() {
+     $("#getSimple").on("click", function() {
+          var s = simpleSentence();
+          $(".random").html(s);
+     });
+});
