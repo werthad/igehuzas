@@ -117,11 +117,6 @@ noun[113] = "Én hiszek az Istennek, hogy úgy lesz, ahogyan nekem megmondta. <b
 noun[114] = "Egyesek hittek a beszédének, mások pedig nem hittek. <br> Apcsel. 28,24";
 noun[115] = "Hirdette az Isten országát, és tanított az Úr Jézus Krisztusról teljes bátorsággal, minden akadályoztatás nélkül. <br> Apcsel 28,31";
 
-
-
-
-
-
 var orderNouns = function(){
   
 };
