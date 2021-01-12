@@ -136,6 +136,12 @@ var simpleSentence = function(){
   
 };
 
+function hideButton() {
+  var x = document.getElementById("hideableDiv")
+    x.style.display = "none";
+  
+};
+
 $(document).ready(function() {
      $("#getSimple").on("click", function() {
           var s = simpleSentence();
